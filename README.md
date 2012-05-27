@@ -1,6 +1,3 @@
-MaxAuth
-=======
-
 # MaxAuth Cakephp 2.0 ACL Management Plugin #
 
 - supports creation of user groups;
