@@ -1,0 +1,1 @@
+<a href="http://<?= $_SERVER['HTTP_HOST']; ?>/reset/<?= $reset_code; ?>">http://<?= $_SERVER['HTTP_HOST']; ?>/reset/<?= $reset_code; ?></a>
